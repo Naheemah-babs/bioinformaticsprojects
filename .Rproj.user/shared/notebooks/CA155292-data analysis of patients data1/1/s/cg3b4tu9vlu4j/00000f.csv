@@ -1,0 +1,3 @@
+"0","#storing realistic values to a new file"
+"0","ds1_filt <- ds1[!ind_wrong_values,]"
+"0","ds1_filt"

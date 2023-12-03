@@ -1,0 +1,5 @@
+"0","# Visualize Eigenvalues "
+"0","options(repr.plot.width = 5, repr.plot.height = 5)"
+"0","plot(pca,"
+"0","	xlab = ""Dimension"","
+"0","	main = 'Scree plot')"

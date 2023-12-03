@@ -1,0 +1,4 @@
+"0","ggplot(ds2, aes(x = Age)) + "
+"0","	geom_histogram(binwidth = 5) +"
+"0","	xlab(""Weight"") +"
+"0","	ylab(""Patients"")"

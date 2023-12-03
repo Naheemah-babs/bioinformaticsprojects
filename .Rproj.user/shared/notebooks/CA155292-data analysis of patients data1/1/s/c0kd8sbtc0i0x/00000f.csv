@@ -1,0 +1,1 @@
+"0","wt.vs.ldl.lm <- lm(Weight ~ LDL, ds1)"

@@ -1,0 +1,6 @@
+"0","Hours_sun_LDL_cov <- sum((ds1$Hours_Sun - mean(ds1$Hours_Sun)) * (ds1$LDL - mean(ds1$LDL))) / (nrow(ds1) -1)"
+"0","round(Hours_sun_LDL_cov, 2)"
+"1","[1]"
+"1"," 10.44"
+"1","
+"

@@ -1,0 +1,7 @@
+"0","ggplot(ds2, aes(y=Weight, fill=Color_House))  + "
+"0","	geom_boxplot() +"
+"0","	ylab(""Weight"") +"
+"0","	ggtitle(""Count Distribution per Sample"") +"
+"0","	theme(axis.title.x=element_blank(),"
+"0","        axis.text.x=element_blank(),"
+"0","        axis.ticks.x=element_blank())"
