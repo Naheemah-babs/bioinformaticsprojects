@@ -1,0 +1,2 @@
+"0","#identifying patients with more than 100 in weight "
+"0","idx <- ds1$Weight > 100"

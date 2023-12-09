@@ -1,0 +1,2 @@
+"0","# Access third, fifth, and 99th row directly."
+"0","ds1[c(3,5,99), ]"

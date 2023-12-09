@@ -1,0 +1,7 @@
+"0","plt <- ds1 %>% "
+"0","  ggplot(aes(x = LDL, y = Weight)) + "
+"0","  geom_point() +"
+"0","  xlab(""LDL"") +"
+"0","  ylab(""Weight"") +"
+"0","geom_smooth(method='lm', se = FALSE)  "
+"0","plt"

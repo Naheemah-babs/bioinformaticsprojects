@@ -1,0 +1,2 @@
+"0","ds2 <- read.csv(""data2.csv"", row.names = 1)"
+"0","ds2 <- ds2[complete.cases(ds2),] ##complete cases checks missing values"

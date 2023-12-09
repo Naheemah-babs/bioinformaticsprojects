@@ -1,0 +1,2 @@
+"0","##  set the plot dimension"
+"0","options(repr.plot.width = 3, repr.plot.height = 3)"

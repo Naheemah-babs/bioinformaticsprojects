@@ -1,0 +1,7 @@
+"0","options(repr.plot.width = 4.5, repr.plot.height = 3)"
+"0",""
+"0","ggplot(ds2, aes(x=Weight, y=LDL))  + "
+"0","      geom_point(aes(col=Hospital_Visits), size=3) +"
+"0","    ggtitle(""Weight vs. LDL"") +"
+"0","    xlab(""Body Weight"") + "
+"0","    ylab(""LDL level"")"

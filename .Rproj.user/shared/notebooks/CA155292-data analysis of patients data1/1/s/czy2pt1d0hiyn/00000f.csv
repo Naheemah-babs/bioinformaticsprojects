@@ -1,0 +1,6 @@
+"0","Hours_sun_LDL_cor <- cor(ds1$Hours_Sun, ds1$LDL)"
+"0","Hours_sun_LDL_cor"
+"1","[1]"
+"1"," 0.3972211"
+"1","
+"

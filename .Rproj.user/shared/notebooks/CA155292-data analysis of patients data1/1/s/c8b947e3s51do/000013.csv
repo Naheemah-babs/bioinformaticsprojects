@@ -1,0 +1,6 @@
+"0",""
+"0","# Visualize individual patients using only the first two components"
+"0","plot(pca$x[,1], pca$x[,2], "
+"0","	xlab = 'PC 1', "
+"0","	ylab = 'PC 2', "
+"0","	main = 'PCA across Patients')"
