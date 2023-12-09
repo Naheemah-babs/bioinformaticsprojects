@@ -1,0 +1,2 @@
+"0","# Looking at the total data distribution reveals a non-normal distribution."
+"0","hist(ds4, xlab = 'nominal expression values')"

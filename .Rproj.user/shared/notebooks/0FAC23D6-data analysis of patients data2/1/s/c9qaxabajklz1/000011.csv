@@ -1,0 +1,3 @@
+"0","# Expression data are commonly log-transformed to achieve a normal distribtution, lets try that"
+"0","ds4.lg <- log1p(ds4)"
+"0","hist(ds4.lg, xlab = 'log scale expression values with pseudocount 1')"

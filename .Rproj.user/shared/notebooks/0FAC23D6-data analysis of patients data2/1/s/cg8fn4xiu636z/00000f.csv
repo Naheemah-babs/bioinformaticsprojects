@@ -1,0 +1,8 @@
+"0","# A visual representation of the presumably differentially expressed genes is very helpful. Let's make a heatmap."
+"0","library(pheatmap)"
+"0",""
+"0","# a logical vector indicating the genes with significant p-values from the t-test"
+"0","de.idx <- p.vals < 0.05"
+"0",""
+"0","options(repr.plot.width = 7, repr.plot.height = 20)"
+"0","pheatmap(ds4.lg[de.idx,])"

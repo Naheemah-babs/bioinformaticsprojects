@@ -1,11 +1,11 @@
 {
     "id": "05F140E6",
-    "path": null,
-    "project_path": null,
+    "path": "/cloud/project/data analysis of patients data2.Rmd",
+    "project_path": "data analysis of patients data2.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3641983252",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1702127265343.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -18,11 +18,11 @@
         "last_setup_crc32": "dd95ae64bb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 7956016039546090849,
-    "encoding": "",
+    "lastKnownWriteTime": 1702142438,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702139937118,
+    "last_content_update": 1702142438666,
     "read_only": false,
     "read_only_alternatives": []
 }

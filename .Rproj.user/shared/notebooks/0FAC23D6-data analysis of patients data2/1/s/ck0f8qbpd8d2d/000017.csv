@@ -1,0 +1,8 @@
+"0",""
+"0","# cumulative explained variability plot"
+"0","cp <- cumsum(ds4.lg.pca$sdev^2 / sum(ds4.lg.pca$sdev^2))"
+"0","plot(cp, "
+"0","    xlab = ""PC #"", "
+"0","     ylab = ""Amount of explained variance"", "
+"0","     main = ""Cumulative variance plot"""
+"0","    )"

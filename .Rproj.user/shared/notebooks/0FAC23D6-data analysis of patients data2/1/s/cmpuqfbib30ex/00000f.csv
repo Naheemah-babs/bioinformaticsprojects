@@ -1,0 +1,6 @@
+"0","# mean vs variance plot -> show that statistics vary between highly and lowly expressed genes "
+"0","plot(apply(ds4.lg[,earth.idx], 1, mean), apply(ds4.lg[,earth.idx], 1, var), "
+"0","     xlab = 'Mean expression [log]',"
+"0","    ylab = 'Expression variance [log]', "
+"0","    main = 'Expression Mean vs. Variance for Earth samples',"
+"0","    pch = 19)"

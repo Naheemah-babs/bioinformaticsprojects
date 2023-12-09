@@ -1,0 +1,7 @@
+"0","ds4.lg.pca <- prcomp(t(ds4.lg), scale = FALSE, center = FALSE)"
+"0",""
+"0","# the scree plot shows us, which dimensions carry the majority of the variation."
+"0","options(repr.plot.width = 6, repr.plot.height = 4)"
+"0","plot(ds4.lg.pca,"
+"0","	xlab = ""Dimension"","
+"0","	main = 'Scree plot')"
